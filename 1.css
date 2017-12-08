@@ -60,7 +60,7 @@ body
 }
 
 .content{
-    min-height: 500px;
+    min-height: 1000px;
     background:LightCyan;
     width:1200px;
     float:left;
