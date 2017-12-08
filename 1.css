@@ -67,4 +67,13 @@ body
     text-align:center;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     color:darkslategray;
+    margin-bottom:40px;
+}
+.footer{
+    clear:both;
+    background:#a6a6a6;
+    height:40px;
+    color:white;
+    text-align:center;
+    padding:10px;
 }
